@@ -3,6 +3,7 @@ body {
   }
 
   button {
+    position: absolute; bottom: 0;
     display: flex;
     justify-content: space-between;
     padding: 0.1em 0.25em;
@@ -23,12 +24,12 @@ body {
     bottom: 0.4em;
     width: 8.25em;
     height: 2.5em;
-    background-color: #212121;
+    background-color: #A100F2;
     border-radius: 0.2em;
     font-size: 1.5em;
-    color: #fff;
-    border: 0.08em solid #fff;
-    box-shadow: 0 0.4em 0.1em 0.019em #fff;
+    color: #4cc9f0;
+    border: 0.08em solid #8900F2;
+    box-shadow: 0 0.4em 0.1em 0.019em #8900F2;
   }
   
   button span:hover {
@@ -42,13 +43,13 @@ body {
   }
   
   h3 {
-    color: #F20089;
+    color: #4cc9f0;
   }
 
   p {
-    color: #F20089;
+    color: #4cc9f0;
   }
 
   h1 {
-    color: #E500A4;
+    color: #4cc9f0;
   }
